@@ -1,0 +1,10 @@
+C:\Users\Karen Lopez\Documents\My Docs\Project\CompanyDB\CompanyDB\bin\Debug\CompanyDB.dacpac
+C:\Users\Karen Lopez\Documents\My Docs\Project\CompanyDB\CompanyDB\obj\Debug\CompanyDB.sqlproj.AssemblyReference.cache
+C:\Users\Karen Lopez\Documents\My Docs\Project\CompanyDB\CompanyDB\obj\Debug\CompanyDB.dll
+C:\Users\Karen Lopez\Documents\My Docs\Project\CompanyDB\CompanyDB\obj\Debug\CompanyDB.pdb
+C:\Users\Karen Lopez\Documents\My Docs\Project\CompanyDB\CompanyDB\bin\Debug\CompanyDB.dll
+C:\Users\Karen Lopez\Documents\My Docs\Project\CompanyDB\CompanyDB\bin\Debug\CompanyDB.pdb
+C:\Users\Karen Lopez\Documents\My Docs\Project\CompanyDB\CompanyDB\obj\Debug\Model.xml
+C:\Users\Karen Lopez\Documents\My Docs\Project\CompanyDB\CompanyDB\obj\Debug\refactor.xml
+C:\Users\Karen Lopez\Documents\My Docs\Project\CompanyDB\CompanyDB\obj\Debug\postdeploy.sql
+C:\Users\Karen Lopez\Documents\My Docs\Project\CompanyDB\CompanyDB\obj\Debug\predeploy.sql
